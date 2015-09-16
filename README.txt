@@ -1,3 +1,2 @@
-usage: java CommentStripper2 < "your java filename without quotes".java
-doesnt modify empty lines need to make it remove them
+usage: java CommentStripper2 < "your filename without quotes".java
 dont use commentstripper use commentstripper2
